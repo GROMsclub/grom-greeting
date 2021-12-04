@@ -21,7 +21,7 @@ fn main() {
 
     if name == "" {
         sleep_seconds(1);
-        println!("The GROM syas 'Fine. Be that way.' and paddles out in to the metaverse.");
+        println!("The GROM says 'Fine. Be that way.' and paddles out in to the metaverse.");
         sleep_seconds(2);
         println!("You spin in the GROM's wake and drift out into deepspace.");
         sleep_seconds(1);
